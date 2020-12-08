@@ -1,6 +1,9 @@
 # Responsive-Design-Using-the-Bootstrap-Grid-System
 
+
 ![imagen](img1.png)
+
+
 
 1. **Nombres y apellidos:** Carola Casais Recondo
 2. **Fecha:** Martes 8 de diciembre de 2020
